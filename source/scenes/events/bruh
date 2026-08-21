@@ -1,7 +1,6 @@
 title: Panzerkreuzer A
 subtitle: A political question
-tags: event, govt_affairs
-is-card: true
+tags: event
 on-arrival: panzerkreuzer_seen = 1
 face-image: img/panzerkreuzer.jpg
 view-if: panzerkreuzer_seen = 0 and year = 1928 and month >= 2
