@@ -12,7 +12,7 @@ Tensions run high in Berlin. The Communists are planning a demonstration to comm
 
 Many non-communists are afraid of the possibility of another violent uprising, and our allies in the Prussian coalition are asking the Prussian Interior Ministry to ban the demonstrations.
 
-- @ban: Ban the demonstrations. No cooperation with the Stalinists
+- @ban: Ban the demonstrations.
 - @allow_police: Allow the demonstrations to proceed, but maintain a heavy police presence.
 - @allow: Allow the demonstrations to proceed.
 - @join: Join in the demonstrations ourselves.
