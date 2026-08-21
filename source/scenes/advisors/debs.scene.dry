@@ -1,6 +1,6 @@
 title: Eugene Debs
 is-pinned-card: true
-tags: advisor, IWW
+tags: advisor, labor
 card-image: img/portraits/Debs.jpg
 view-if: debs_advisor = 1
 new-page: true
